@@ -33,10 +33,19 @@ wip/
 *.lnk
 ehthumbs.db
 ignore.*
-package-lock.json
 Thumbs.db
 
 ##### Environment variables and secret keys #####
 .env
 .env.test
 *.pem
+
+# Application artifacts and private data
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env.*
+!.env.example
+.streamlit/secrets.toml
+data/raw/
+models/*.joblib

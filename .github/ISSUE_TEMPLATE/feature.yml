@@ -3,7 +3,7 @@ description: Propose a new feature, improvement, or architectural change
 title: "feat: <short description>"
 labels: ["type: feature ✨", "status: needs triage"]
 assignees:
-  - bhdicaire
+  - MelvinShingiro
 body:
   - type: checkboxes
     attributes:

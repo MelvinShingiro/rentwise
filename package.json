@@ -1,33 +1,30 @@
 {
-  "name": "templateRepository",
-  "version": "1.0.0",
-  "description": "Repository template with batteries included",
+  "name": "rentwise",
+  "version": "0.0.0",
+  "description": "A rental business management project for tracking inventory, availability, reservations, deposits, and returns with React, TypeScript, and Supabase.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bhdicaire/templateRepository.git"
+    "url": "git+https://github.com/MelvinShingiro/rentwise.git"
   },
   "keywords": [
-    "github-template",
-    "issue-management",
-    "issue-template",
-    "issues",
-    "pull-request-template",
-    "readme",
-    "template-project",
-    "template-repository",
-    "template",
-    "templates"
+    "react",
+    "typescript",
+    "supabase",
+    "postgresql",
+    "rental-management",
+    "inventory-management",
+    "booking-system",
+    "test-automation"
   ],
   "author": {
-    "name": "Benoît H. Dicaire",
-    "email": "code@Dicaire.com",
-    "url": "https://BHDicaire.com"
+    "name": "Melvin Shingiro",
+    "url": "https://github.com/MelvinShingiro"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bhdicaire/templateRepository/issues"
+    "url": "https://github.com/MelvinShingiro/rentwise/issues"
   },
-  "homepage": "https://github.com/bhdicaire/templateRepository",
+  "homepage": "https://github.com/MelvinShingiro/rentwise#readme",
   "devDependencies": {
     "@commitlint/cli": "^19.2.1",
     "@commitlint/config-conventional": "^19.1.0",
@@ -41,5 +38,6 @@
   "scripts": {
     "prepare": "husky",
     "lint:spell": "cspell --no-progress \"**/*.md\""
-  }
+  },
+  "private": true
 }

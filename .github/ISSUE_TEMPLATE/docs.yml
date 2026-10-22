@@ -3,7 +3,7 @@ description: Report an issue or suggestion for README or documentation
 title: "docs: <short description>"
 labels: ["type: docs 📝", "status: needs triage"]
 assignees:
-  - bhdicaire
+  - MelvinShingiro
 body:
   - type: textarea
     attributes:

@@ -3,7 +3,7 @@ description: Questions and requests for support
 title: "question: <short description>"
 labels: ["question ❓", "support", "status: needs triage"]
 assignees:
-  - bhdicaire
+  - MelvinShingiro
 body:
   - type: checkboxes
     attributes:

@@ -1,17 +1,17 @@
 ## Description
-<!-- Provide a brief summary of the changes introduced by this PR -->
 
-## Related Issue
-<!-- Link related issue(s) here using GitHub keywords, e.g., Closes #123 -->
+Describe the problem and resulting behaviour.
 
-## Type of Change
-- [ ] 🐛 Bug fix (non-breaking change fixing an issue)
-- [ ] ✨ New feature (non-breaking change adding functionality)
-- [ ] 📝 Documentation update
-- [ ] 🧹 Refactoring / Chore
+## Related issue
+
+Link the relevant issue, if any.
+
+## Validation
+
+Describe the checks you ran and their results.
 
 ## Checklist
-- [ ] I have read the [CONTRIBUTING](CONTRIBUTING.md) guide.
-- [ ] My code follows the project's code style guidelines.
-- [ ] I have added/updated unit tests for these changes.
-- [ ] All tests pass locally.
+
+- [ ] The change is focused and follows the [contribution guide](CONTRIBUTING.md).
+- [ ] Documentation and relevant tests are updated.
+- [ ] No credentials or private data are included.

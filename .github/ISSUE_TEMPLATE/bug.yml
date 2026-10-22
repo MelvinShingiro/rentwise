@@ -3,7 +3,7 @@ description: File a bug report to help us fix an issue
 title: "bug: <short description>"
 labels: ["type: bug 🐛", "status: needs triage"]
 assignees:
-  - bhdicaire
+  - MelvinShingiro
 body:
   - type: checkboxes
     attributes:
